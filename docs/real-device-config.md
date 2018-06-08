@@ -5,7 +5,7 @@
 Two pieces of software are currently necessary to run iOS tests on real devices:
 
 1. `libimobiledevice` - install using `brew install libimobiledevice --HEAD`
-2. `ios-deploy` - install using `npm install -g ios-deploy`
+2. `ios-deploy` - install using `npm install -g -ios-deploy`
 
 
 ### Basic (automatic) configuration
